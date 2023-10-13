@@ -12,7 +12,7 @@ const transactionExplanationPath = `${recipe}/explanations/transaction.txt`;
 export const mintNFT = {
   slug: recipe,
   title: "Mint NFT",
-  description: "Introduction to minting an NFT on Flow",
+  featuredText: "Introduction to minting an NFT on Flow",
   createdAt: Date(2022, 9, 14),
   author: "Flow Blockchain",
   playgroundLink:
