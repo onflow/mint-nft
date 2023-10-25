@@ -23,4 +23,7 @@ export const mintNFT = {
   smartContractExplanation: smartContractExplanationPath,
   transactionCode: transactionPath,
   transactionExplanation: transactionExplanationPath,
+  filters: {
+    difficulty: "beginner"
+  }
 };
